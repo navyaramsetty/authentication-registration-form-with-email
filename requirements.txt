@@ -1,0 +1,12 @@
+flask
+flask-mysqldb
+flask-mail
+flask-jwt-extended
+bcrypt
+authlib
+python-dotenv
+flask
+flask-mail
+flask-jwt-extended
+bcrypt
+flask-sqlalchemy
